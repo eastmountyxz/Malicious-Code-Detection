@@ -36,4 +36,16 @@ https://xz.aliyun.com/t/1879
 由于数据集可能比较多，一开始也不能全部列举出来，所以后续会慢慢补充，慢慢增加。
 
 
+https://github.com/foospidy/payloads
+
+
+- 恶意Web请求数据集
+https://github.com/Echo-Ws/UrlDetect
+
+https://github.com/exp-db/AI-Driven-WAF
+
+
+
+
+
 
